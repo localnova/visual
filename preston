@@ -1,10 +1,4 @@
-wait(1.2)
-game.StarterGui:SetCore("SendNotification", {
-Title = "READ ME"; -- the title (ofc)
-Text = "Click Yourself on the leaderboard and execute!"; -- what the text says (ofc)
-Icon = "rbxassetid://57254792"; -- the image if u want. 
-Duration = 10; -- how long the notification should in secounds
-})
+
 
 -- This file was generated using Luraph Obfuscator v13.6.6
 
